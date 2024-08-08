@@ -1,0 +1,9 @@
+.card {
+  width: 100px; /* Ajustez selon vos besoins */
+  height: 100px; /* Ajustez selon vos besoins */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
